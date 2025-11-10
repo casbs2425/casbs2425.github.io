@@ -45,7 +45,7 @@ keynotes:
 panelists:
 
 participants:
-<!--    - image_path: /assets/images/2025/jackson_sq.jpg -->
+
       alt: "Katy DeCelles"
       excerpt: >
         **Katy DeCelles**<br>
@@ -53,7 +53,7 @@ participants:
         [)
       bio: >
 
-<!--    - image_path: /assets/images/2025/mei_sq.jpeg -->
+
       alt: "Maureen Eger"
       excerpt: >
         **Maureen Eger**<br>
@@ -62,7 +62,6 @@ participants:
       bio: >
     
 
-<!--    - image_path: /assets/images/2025/wang_sq.jpg -->
       alt: "Alice Farmer"
       excerpt: >
         **Alice Farmer**<br>
@@ -70,7 +69,7 @@ participants:
         [)
       bio: >
 
-<!--    - image_path: /assets/images/2025/xie_sq.jpeg -->
+
       alt: "Ann Owens"
       excerpt: >
         **Ann Owens**<br>
