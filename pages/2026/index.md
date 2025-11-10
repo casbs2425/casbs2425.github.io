@@ -135,7 +135,7 @@ To be announced. -->
 
 
 # Participants
-Please contact us at casbs2025 at gmail dot com if you have any questions.
+Please contact us at casbs2425 at gmail dot com if you have any questions.
 
 {% include feature_row id="participants"%}
 
