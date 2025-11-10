@@ -45,7 +45,7 @@ keynotes:
 panelists:
 
 participants:
-    - image_path: /assets/images/2026/bg.jpg
+    - image_path: /assets/images/2026/casbs.jpg
       alt: "Katy DeCelles"
       excerpt: >
         **Katy DeCelles**<br>
@@ -53,7 +53,7 @@ participants:
         [)
       bio: >
 
-    - image_path: /assets/images/2026/bg.jpg
+    - image_path: /assets/images/2026/casbs.jpg
       alt: "Maureen Eger"
       excerpt: >
         **Maureen Eger**<br>
@@ -61,7 +61,7 @@ participants:
         [)
       bio: >
     
-    - image_path: /assets/images/2026/bg.jpg
+    - image_path: /assets/images/2026/casbs.jpg
       alt: "Alice Farmer"
       excerpt: >
         **Alice Farmer**<br>
@@ -69,7 +69,7 @@ participants:
         [)
       bio: >
 
-    - image_path: /assets/images/2026/bg.jpg
+    - image_path: /assets/images/2026/casbs.jpg
       alt: "Ann Owens"
       excerpt: >
         **Ann Owens**<br>
